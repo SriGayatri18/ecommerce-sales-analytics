@@ -64,4 +64,4 @@ Sri Gayatri Nandikanti
 
 
 💡 Hire Me
-Actively seeking # Data Analyst / Python Developer opportunities..
+Actively seeking Data Analyst / Python Developer opportunities.

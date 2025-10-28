@@ -66,3 +66,8 @@ Sri Gayatri Nandikanti
 
 💡 Hire Me
 Actively seeking Data Analyst / Python Developer opportunities.
+
+
+| Profit by Category                                | Profit by Region                              |
+| ------------------------------------------------- | --------------------------------------------- |
+| ![Profit Category](images/profit_by_category.png) | ![Profit Region](images/profit_by_region.png) |

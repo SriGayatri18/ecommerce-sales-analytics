@@ -77,3 +77,22 @@ Actively seeking Data Analyst / Python Developer opportunities.
 | Shipping Delay vs Profit |
 |------------------------|
 | ![Shipping Delay](images/shipping_delay_vs_profit.png) |
+
+
+## 🧠 Business Insights & Decisions
+
+Here are key insights that can drive strategic decisions:
+
+1️⃣ **Technology category generates the highest profit**  
+• Prioritize marketing + inventory investment here  
+
+2️⃣ **Central and West regions are more profitable than South**  
+• Expand logistics + target customer campaigns in high-performing regions
+
+3️⃣ **Large discounts often lead to losses**  
+• Implement smarter discounting rules  
+• Focus on profitability, not sales volume only
+
+4️⃣ **Shipping delays reduce profit**  
+• Review carrier performance  
+• Faster fulfillment = better customer satisfaction and earnings

@@ -68,6 +68,12 @@ Sri Gayatri Nandikanti
 Actively seeking Data Analyst / Python Developer opportunities.
 
 
-| Profit by Category                                | Profit by Region                              |
-| ------------------------------------------------- | --------------------------------------------- |
+## 📊 Visual Insights Preview
+
+| Profit by Category | Profit by Region |
+|------------------|-----------------|
 | ![Profit Category](images/profit_by_category.png) | ![Profit Region](images/profit_by_region.png) |
+
+| Shipping Delay vs Profit |
+|------------------------|
+| ![Shipping Delay](images/shipping_delay_vs_profit.png) |

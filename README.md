@@ -1,4 +1,4 @@
-📊 E-Commerce Sales Analytics | Python + SQL
+# 📊 E-Commerce Sales Analytics | Python + SQL
 This project analyzes retail sales performance to uncover revenue drivers, customer value insights, and operational inefficiencies.
 Using real Superstore sales data, the goal is to support business decision-making with data-driven insights.
 

@@ -56,7 +56,7 @@ ecommerce-sales-analytics
 
 📦 Dataset Source
 Superstore Sales Dataset (Kaggle)
-
+🔗 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 👩‍💻 Author
 Sri Gayatri Nandikanti
@@ -64,4 +64,4 @@ Sri Gayatri Nandikanti
 
 
 💡 Hire Me
-Actively seeking Data Analyst / Python Developer opportunities.
+Actively seeking # Data Analyst / Python Developer opportunities..

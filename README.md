@@ -61,7 +61,7 @@ Superstore Sales Dataset (Kaggle)
 👩‍💻 Author
 Sri Gayatri Nandikanti
 
-[LinkedIn] (https://www.linkedin.com/in/sri-gayatri-8a1128242/)
+[LinkedIn] (https://www.linkedin.com/in/sri-gayatri-nandikanti-8a1128242/)
 
 
 💡 Hire Me

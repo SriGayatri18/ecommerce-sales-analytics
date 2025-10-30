@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analytics | Python + SQL
+## 📊 E-Commerce Sales Analytics | Python + SQL + Power BI
 This project analyzes retail sales performance to uncover revenue drivers, customer value insights, and operational inefficiencies.
 Using real Superstore sales data, the goal is to support business decision-making with data-driven insights.
 
@@ -10,23 +10,31 @@ Using real Superstore sales data, the goal is to support business decision-makin
 4. Discover high-value customers for retention strategies
 
 
-| Skill Category    | Highlights                                  |
-| ----------------- | ------------------------------------------- |
-| Programming       | Python (Pandas, Seaborn, Matplotlib)        |
-| Data Manipulation | Data cleaning, feature engineering          |
-| Database          | MySQL integration (upcoming)                |
-| Business Insights | Profitability, demand & operations analysis |
-| Version Control   | GitHub repository management                |
-| Notebooks         | Google Colab for analysis                   |
+## 🧠 Skill Highlights
+| **Category**          | **Key Skills / Tools**                      |
+| --------------------- | ------------------------------------------- |
+| **Programming**       | Python (Pandas, Seaborn, Matplotlib)        |
+| **Data Manipulation** | Data cleaning, feature engineering          |
+| **Database**          | MySQL integration *(upcoming)*              |
+| **Business Insights** | Profitability, demand & operations analysis |
+| **Visualization**     | Power BI dashboards (Page-1 & Page-2)       |
+| **Version Control**   | GitHub repository management                |
+| **Notebooks**         | Google Colab for analysis                   |
+
 
 
 ## 📁 Project Structure
-ecommerce-sales-analytics
-├── data_raw/           # original dataset
-├── data_cleaned/       # cleaned dataset
-├── notebooks/          # Jupyter notebooks
+ecommerce-sales-analytics/
+│
+├── data_raw/                 # Original dataset
+├── data_cleaned/             # Cleaned dataset
+├── notebooks/                # Jupyter notebooks
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_EDA_and_Insights.ipynb
+├── SQL_outputs/              # SQL query results (CSV)
+├── images/                   # Power BI dashboards
+│   ├── page1_sales_overview.png
+│   └── page2_business_insights.png
 └── README.md
 
 
@@ -36,15 +44,7 @@ ecommerce-sales-analytics
 • Shipping delay metric
 • Profit margin percentage
 ✔ Exploratory Data Analysis completed
-✔ Business insights derived from visualizations
-
-
-## 🔮 Upcoming Work
-• Monthly trend dashboards
-• Top customer profitability analysis
-• SQL querying for deeper metrics
-• Final business recommendation report
-• Streamlit dashboard 
+✔ Business insights derived from Power BI visualizations
 
 
 ## 📈 Key Insights
@@ -54,18 +54,26 @@ ecommerce-sales-analytics
 • Central & West regions lead performance; South has opportunity for growth
 
 
-## 📦 Dataset Source
-Superstore Sales Dataset (Kaggle)
-🔗 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+## 📊 Dashboard Visuals
 
-## 👩‍💻 Author
-Sri Gayatri Nandikanti
-
-[LinkedIn] (https://www.linkedin.com/in/sri-gayatri-nandikanti-8a1128242/)
+| ![Sales Overview Dashboard](images/sales_overview_dashboard.png) | ![Business Insights Dashboard](images/business_insights_dashboard.png) |
+|:--:|:--:|
+| **Sales Overview Dashboard** | **Business Insights Dashboard** |
 
 
-## 💡 Hire Me
-Actively seeking Data Analyst / Python Developer opportunities.
+## 🧩 Dashboard Highlights
+
+Page-1: Sales Overview Dashboard
+Visuals: Total Sales, Total Profit, Profit Margin by Category
+Filters: Segment, Category, and Order Date
+Scatter plot: Impact of Shipping Delay on Profit
+Regional & Category-wise performance comparison
+
+Page-2: Business Insights Dashboard
+KPIs: Average Profit Margin (%) and Average Discount (%)
+Visuals: Top Profitable Products, Sales by Segment, Profit by Region Map
+Scatter plot: Discount vs Profit by Category
+Interactive filters for Category and Region
 
 
 ## 📊 Visual Insights Preview
@@ -83,20 +91,18 @@ Actively seeking Data Analyst / Python Developer opportunities.
 
 Here are key insights that can drive strategic decisions:
 
-1️⃣ **Technology category generates the highest profit**  
-• Prioritize marketing + inventory investment here  
+1️⃣ **Technology category generates the highest profit**
+ • Prioritize marketing + inventory investment in this segment
 
-2️⃣ **Central and West regions are more profitable than South**  
-• Expand logistics + target customer campaigns in high-performing regions
+2️⃣ **Central and West regions outperform others**
+ • Expand logistics & customer targeting in these high-profit regions
 
-3️⃣ **Large discounts often lead to losses**  
-• Implement smarter discounting rules  
-• Focus on profitability, not sales volume only
+3️⃣ **Excessive discounting reduces profit**
+ • Introduce optimized discount rules focused on margin protection
 
-4️⃣ **Shipping delays reduce profit**  
-• Review carrier performance  
-• Faster fulfillment = better customer satisfaction and earnings
-
+4️⃣ **Shipping delays hurt profitability**
+ • Review carrier performance
+ • Faster fulfillment = improved customer satisfaction & revenue
 
 ## 🗂️ SQL Analysis
 
@@ -139,3 +145,17 @@ GROUP BY Shipping_Status;
 ✔ Shipping delays have a negative business impact
 
 These findings help guide pricing strategy, regional planning, and logistics improvements.
+
+
+## 📦 Dataset Source
+Superstore Sales Dataset (Kaggle)
+🔗 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## 👩‍💻 Author
+Sri Gayatri Nandikanti
+
+[LinkedIn] (https://www.linkedin.com/in/sri-gayatri-nandikanti-8a1128242/)
+
+
+## 💡 Hire Me
+Actively seeking Data Analyst / Python Developer opportunities.

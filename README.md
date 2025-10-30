@@ -1,4 +1,5 @@
 ## 📊 E-Commerce Sales Analytics | Python + SQL + Power BI
+> A complete data analytics project combining Python, SQL, and Power BI for business insights on e-commerce sales.
 This project analyzes retail sales performance to uncover revenue drivers, customer value insights, and operational inefficiencies.
 Using real Superstore sales data, the goal is to support business decision-making with data-driven insights.
 

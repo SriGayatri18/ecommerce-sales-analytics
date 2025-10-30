@@ -56,7 +56,7 @@ ecommerce-sales-analytics/
 
 ## 📊 Dashboard Visuals
 
-| ![Sales Overview Dashboard](images/sales_overview_dashboard.png) | ![Business Insights Dashboard](images/business_insights_dashboard.png) |
+| ![Sales Overview Dashboard](images/sales_overview_dashboard.png) | ![Business Insights Dashboard](images/business_insights_dashbaord.png) |
 |:--:|:--:|
 | **Sales Overview Dashboard** | **Business Insights Dashboard** |
 
